@@ -7,3 +7,5 @@ Java Test Project
   <img alt="CloudMunch Logo" src="https://www.cloudmunch.com/templates/cloudmunchtemplate3/img/cmLogo.jpg">
 </a>
 
+Test that!
+
